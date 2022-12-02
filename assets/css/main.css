@@ -55,6 +55,7 @@ h2 {
     height: 70px;
     border: none;
     box-shadow: 1px 1px 10px grey;
+    webkit-box-shadow:1px 1px 10px grey;
     border-radius: 15px;
     text-align: end;
     padding: 15px;
@@ -84,6 +85,7 @@ h2 {
     font-size: 2rem;
     height: 90px;
     border-radius: 15px;
+    webkit-box-shadow:1px 1px 10px #2b2b2b; 
     box-shadow: 1px 1px 10px #2b2b2b;
     color: #fff;
     transition: background-color 0.3s ease-in;
