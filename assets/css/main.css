@@ -170,6 +170,11 @@ h2 {
         right: 0%;
         padding:0px 10px;
     }
+    h1{
+        font-size: 1.5rem;
+        padding: 5.5px 0px;
+        text-align: center;
+    }
     h2 {
         font-size: 1.2rem;
         padding: 5.5px 0px;
